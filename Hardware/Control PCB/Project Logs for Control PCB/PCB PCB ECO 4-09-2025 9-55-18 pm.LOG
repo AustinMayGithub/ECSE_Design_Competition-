@@ -1,0 +1,20 @@
+Added Component: Designator=U1(RPI-PICO-MOD)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Raspberry Pi Foundation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "SC0915"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Link"; Value = "https://www.digikey.com/en/products/detail/raspberry-pi/SC0915/13684020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part No"; Value = "2648-SC0915CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-1
+Added Pin To Net: NetName=NetJ2_1 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=NetJ3_1 Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=GND Pin=U1-28
+Added Pin To Net: NetName=GND Pin=U1-33
+Added Pin To Net: NetName=GND Pin=U1-38
+Added Pin To Net: NetName=Vcc Pin=U1-40
+Added Member To Class: ClassName=Main Member=Component U1 RPI-PICO-MOD_SM

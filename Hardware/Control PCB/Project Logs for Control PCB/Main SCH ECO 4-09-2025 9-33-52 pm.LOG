@@ -1,0 +1,17 @@
+Replace Part C1 CerCap_SMT_0805 in C:\Users\ramas\OneDrive\Documents\GitHub\ECSE_Design_Competition-\Hardware\Control PCB\Main.SchDoc with CerCap_SMT_0805 from EE209_SchLib.SchLib
+Replace Part C2 CerCap_SMT_0805 in C:\Users\ramas\OneDrive\Documents\GitHub\ECSE_Design_Competition-\Hardware\Control PCB\Main.SchDoc with CerCap_SMT_0805 from EE209_SchLib.SchLib
+Replace Part C3 CerCap_SMT_0805 in C:\Users\ramas\OneDrive\Documents\GitHub\ECSE_Design_Competition-\Hardware\Control PCB\Main.SchDoc with CerCap_SMT_0805 from EE209_SchLib.SchLib
+Replace Part C4 CerCap_SMT_0805 in C:\Users\ramas\OneDrive\Documents\GitHub\ECSE_Design_Competition-\Hardware\Control PCB\Main.SchDoc with CerCap_SMT_0805 from EE209_SchLib.SchLib
+Replace Part C5 CerCap_SMT_0805 in C:\Users\ramas\OneDrive\Documents\GitHub\ECSE_Design_Competition-\Hardware\Control PCB\Main.SchDoc with CerCap_SMT_0805 from EE209_SchLib.SchLib
+Replace Part C6 CerCap_SMT_0805 in C:\Users\ramas\OneDrive\Documents\GitHub\ECSE_Design_Competition-\Hardware\Control PCB\Main.SchDoc with CerCap_SMT_0805 from EE209_SchLib.SchLib
+Update Managed Component J1 From CMP-00257-00247547-1[22-28-4035] To CMP-00257-00247547-1[22-28-4035] in Main.SchDoc
+Update Managed Component J2 From CMP-00257-00247547-1[22-28-4035] To CMP-00257-00247547-1[22-28-4035] in Main.SchDoc
+Update Managed Component J3 From CMP-00257-00247547-1[22-28-4035] To CMP-00257-00247547-1[22-28-4035] in Main.SchDoc
+Update Managed Component J4 From CMP-1772-00001-1[35RASMT4BHNTRX] To CMP-1772-00001-1[35RASMT4BHNTRX] in Main.SchDoc
+Update Managed Component J5 From CMP-1772-00001-1[35RASMT4BHNTRX] To CMP-1772-00001-1[35RASMT4BHNTRX] in Main.SchDoc
+Update Managed Component P1 From CMP-1024-00329-1[TSW-102-26-F-S] To CMP-1024-00329-1[TSW-102-26-F-S] in Main.SchDoc
+Update Managed Component P2 From CMP-1024-00329-1[TSW-102-26-F-S] To CMP-1024-00329-1[TSW-102-26-F-S] in Main.SchDoc
+Replace Part R1 Res_SMT_0805 in C:\Users\ramas\OneDrive\Documents\GitHub\ECSE_Design_Competition-\Hardware\Control PCB\Main.SchDoc with Res_SMT_0805 from EE209_SchLib.SchLib
+Replace Part R2 Res_SMT_0805 in C:\Users\ramas\OneDrive\Documents\GitHub\ECSE_Design_Competition-\Hardware\Control PCB\Main.SchDoc with Res_SMT_0805 from EE209_SchLib.SchLib
+Replace Part U1 RPI-PICO-MOD_SM in C:\Users\ramas\OneDrive\Documents\GitHub\ECSE_Design_Competition-\Hardware\Control PCB\Main.SchDoc with RPI-PICO-MOD_SM from RPi_Pico.SchLib
+Replace Part U2 PAM8406DR in C:\Users\ramas\OneDrive\Documents\GitHub\ECSE_Design_Competition-\Hardware\Control PCB\Main.SchDoc with PAM8406DR from PAM8406DR.SchLib

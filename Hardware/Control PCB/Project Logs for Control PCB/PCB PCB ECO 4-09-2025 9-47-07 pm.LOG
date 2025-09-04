@@ -1,0 +1,22 @@
+Change Component Comment : Designator=C4 Old Comment=1.6u New Comment=*
+Change Component Comment : Designator=C6 Old Comment=1.6u New Comment=*
+Change Component Comment : Designator=R1 Old Comment=1k New Comment=*
+Change Component Comment : Designator=R2 Old Comment=1k New Comment=*
+Change Component Comment : Designator=C1 Old Comment=1u New Comment=*
+Change Component Comment : Designator=C2 Old Comment=1u New Comment=*
+Change Component Comment : Designator=C3 Old Comment=1u New Comment=*
+Change Component Comment : Designator=C5 Old Comment=1u New Comment=*
+Add component: Footprint Not Found RPI-PICO-MOD
+Add Pin To Net: Unknown Pin: Pin U?-1
+Add Pin To Net: Unknown Pin: Pin U?-2
+Add Pin To Net: Unknown Pin: Pin U?-3
+Add Pin To Net: Unknown Pin: Pin U?-4
+Add Pin To Net: Unknown Pin: Pin U?-8
+Add Pin To Net: Unknown Pin: Pin U?-13
+Add Pin To Net: Unknown Pin: Pin U?-18
+Add Pin To Net: Unknown Pin: Pin U?-23
+Add Pin To Net: Unknown Pin: Pin U?-28
+Add Pin To Net: Unknown Pin: Pin U?-33
+Add Pin To Net: Unknown Pin: Pin U?-38
+Add Pin To Net: Unknown Pin: Pin U?-40
+Add Class Member: Failed to add class member : Component U? RPI-PICO-MOD_SM
