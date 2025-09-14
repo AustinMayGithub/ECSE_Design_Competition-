@@ -6,7 +6,7 @@ import math
 ser = serial.Serial('COM15', 115200)  # Change COM15 to your port
 
 # Open camera
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 
 # Face detection
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
